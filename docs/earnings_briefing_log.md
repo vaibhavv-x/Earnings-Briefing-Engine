@@ -16,3 +16,8 @@ Incremental development and engineering logs.
 - **Date**: 2026-01-07 12:09:01
 - **Type**: FEAT
 - **Action**: feat: design sentiment analysis visualization chart using Recharts
+
+### Update - Commit 4
+- **Date**: 2026-01-07 15:06:12
+- **Type**: DOCS
+- **Action**: docs: detail time-series forecasting model configurations
