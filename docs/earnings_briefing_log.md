@@ -6,3 +6,8 @@ Incremental development and engineering logs.
 - **Date**: 2026-01-07 09:03:35
 - **Type**: FEAT
 - **Action**: feat: implement stock ticker search component in UI
+
+### Update - Commit 2
+- **Date**: 2026-01-07 09:07:58
+- **Type**: DOCS
+- **Action**: docs: detail time-series forecasting model configurations
