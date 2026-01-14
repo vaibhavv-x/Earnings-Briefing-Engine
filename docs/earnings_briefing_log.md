@@ -31,3 +31,8 @@ Incremental development and engineering logs.
 - **Date**: 2026-01-14 09:06:20
 - **Type**: FIX
 - **Action**: fix: handle missing EPS values in company profiles gracefully
+
+### Update - Commit 7
+- **Date**: 2026-01-14 13:33:57
+- **Type**: DOCS
+- **Action**: docs: document setup commands and python packages in README
