@@ -41,3 +41,8 @@ Incremental development and engineering logs.
 - **Date**: 2026-01-14 13:39:40
 - **Type**: TEST
 - **Action**: test: implement unit tests for PDF parser library
+
+### Update - Commit 9
+- **Date**: 2026-01-25 09:03:46
+- **Type**: FEAT
+- **Action**: feat: add SEC filings parser for earnings transcript ingestion
