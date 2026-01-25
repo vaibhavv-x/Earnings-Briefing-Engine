@@ -56,3 +56,8 @@ Incremental development and engineering logs.
 - **Date**: 2026-01-25 11:23:29
 - **Type**: REFACTOR
 - **Action**: refactor: modularize data parsers into isolated helper components
+
+### Update - Commit 12
+- **Date**: 2026-01-25 13:35:30
+- **Type**: FIX
+- **Action**: fix: fix date range selector overlapping index charts
