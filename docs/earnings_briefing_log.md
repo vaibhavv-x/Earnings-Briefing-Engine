@@ -66,3 +66,8 @@ Incremental development and engineering logs.
 - **Date**: 2026-01-25 13:36:12
 - **Type**: REFACTOR
 - **Action**: refactor: optimize database queries for historical ticker lookup
+
+### Update - Commit 14
+- **Date**: 2026-01-25 15:46:27
+- **Type**: REFACTOR
+- **Action**: refactor: extract charting logic to reusable chart containers
