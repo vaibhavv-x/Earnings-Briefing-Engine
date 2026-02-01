@@ -86,3 +86,8 @@ Incremental development and engineering logs.
 - **Date**: 2026-02-01 11:20:20
 - **Type**: FIX
 - **Action**: fix: handle missing EPS values in company profiles gracefully
+
+### Update - Commit 18
+- **Date**: 2026-02-01 12:09:23
+- **Type**: REFACTOR
+- **Action**: refactor: modularize data parsers into isolated helper components
