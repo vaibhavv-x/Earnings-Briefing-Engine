@@ -81,3 +81,8 @@ Incremental development and engineering logs.
 - **Date**: 2026-02-01 09:09:55
 - **Type**: FEAT
 - **Action**: feat: add real-time WebSocket feeds for price ticks
+
+### Update - Commit 17
+- **Date**: 2026-02-01 11:20:20
+- **Type**: FIX
+- **Action**: fix: handle missing EPS values in company profiles gracefully
