@@ -116,3 +116,8 @@ Incremental development and engineering logs.
 - **Date**: 2026-02-09 09:02:32
 - **Type**: FIX
 - **Action**: fix: resolve SEC Edgar API rate limiting blocks
+
+### Update - Commit 24
+- **Date**: 2026-02-09 12:10:56
+- **Type**: FIX
+- **Action**: fix: correct parsing of negative cash flow values in tables
