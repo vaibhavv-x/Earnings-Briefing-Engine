@@ -121,3 +121,8 @@ Incremental development and engineering logs.
 - **Date**: 2026-02-09 12:10:56
 - **Type**: FIX
 - **Action**: fix: correct parsing of negative cash flow values in tables
+
+### Update - Commit 25
+- **Date**: 2026-02-09 13:39:40
+- **Type**: FEAT
+- **Action**: feat: add SEC filings parser for earnings transcript ingestion
