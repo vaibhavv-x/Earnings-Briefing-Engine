@@ -141,3 +141,8 @@ Incremental development and engineering logs.
 - **Date**: 2026-02-18 09:06:37
 - **Type**: FIX
 - **Action**: fix: fix date range selector overlapping index charts
+
+### Update - Commit 29
+- **Date**: 2026-02-18 11:23:57
+- **Type**: FIX
+- **Action**: fix: correct parsing of negative cash flow values in tables
