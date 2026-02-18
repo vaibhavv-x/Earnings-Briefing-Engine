@@ -151,3 +151,8 @@ Incremental development and engineering logs.
 - **Date**: 2026-02-18 12:03:18
 - **Type**: REFACTOR
 - **Action**: refactor: optimize database queries for historical ticker lookup
+
+### Update - Commit 31
+- **Date**: 2026-02-18 13:30:42
+- **Type**: FIX
+- **Action**: fix: handle missing EPS values in company profiles gracefully
