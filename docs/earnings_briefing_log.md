@@ -131,3 +131,8 @@ Incremental development and engineering logs.
 - **Date**: 2026-02-09 15:06:06
 - **Type**: FEAT
 - **Action**: feat: implement stock ticker search component in UI
+
+### Update - Commit 27
+- **Date**: 2026-02-18 09:00:28
+- **Type**: FIX
+- **Action**: fix: correct parsing of negative cash flow values in tables
