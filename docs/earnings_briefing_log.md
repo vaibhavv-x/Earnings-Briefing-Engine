@@ -231,3 +231,8 @@ Incremental development and engineering logs.
 - **Date**: 2026-03-28 13:40:09
 - **Type**: TEST
 - **Action**: test: implement unit tests for PDF parser library
+
+### Update - Commit 47
+- **Date**: 2026-04-09 09:04:13
+- **Type**: FIX
+- **Action**: fix: handle missing EPS values in company profiles gracefully
