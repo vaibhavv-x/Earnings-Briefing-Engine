@@ -1,0 +1,1053 @@
+INFO:     Will watch for changes in these directories: ['/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine']
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [74437] using StatReload
+INFO:     Started server process [74440]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     127.0.0.1:49785 - "GET /company/INTC HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49791 - "GET /company/intc HTTP/1.1" 200 OK
+URL: https://financialmodelingprep.com/stable/income-statement/intc?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+STATUS: 404
+RESPONSE: []
+HTTP ERROR: 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/intc?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+FMP blocked. Failing over to ACTUAL data scraping via yfinance engine. 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/intc?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+INFO:     127.0.0.1:49792 - "GET /predict/intc HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49795 - "GET /company/nvda HTTP/1.1" 200 OK
+URL: https://financialmodelingprep.com/stable/income-statement/nvda?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+STATUS: 404
+RESPONSE: []
+HTTP ERROR: 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/nvda?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+FMP blocked. Failing over to ACTUAL data scraping via yfinance engine. 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/nvda?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+INFO:     127.0.0.1:49796 - "GET /predict/nvda HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49796 - "GET /company/meta HTTP/1.1" 200 OK
+URL: https://financialmodelingprep.com/stable/income-statement/meta?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+STATUS: 404
+RESPONSE: []
+HTTP ERROR: 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/meta?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+FMP blocked. Failing over to ACTUAL data scraping via yfinance engine. 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/meta?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+INFO:     127.0.0.1:49799 - "GET /predict/meta HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49829 - "GET /company/META HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49829 - "GET /company/META HTTP/1.1" 200 OK
+URL: https://financialmodelingprep.com/stable/income-statement/META?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+STATUS: 404
+RESPONSE: []
+HTTP ERROR: 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/META?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+FMP blocked. Failing over to ACTUAL data scraping via yfinance engine. 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/META?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+INFO:     127.0.0.1:49830 - "GET /predict/META HTTP/1.1" 200 OK
+URL: https://financialmodelingprep.com/stable/income-statement/META?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+STATUS: 404
+RESPONSE: []
+HTTP ERROR: 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/META?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+FMP blocked. Failing over to ACTUAL data scraping via yfinance engine. 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/META?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+INFO:     127.0.0.1:49830 - "GET /predict/META HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49833 - "GET /company/meta HTTP/1.1" 200 OK
+URL: https://financialmodelingprep.com/stable/income-statement/meta?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+STATUS: 404
+RESPONSE: []
+HTTP ERROR: 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/meta?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+FMP blocked. Failing over to ACTUAL data scraping via yfinance engine. 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/meta?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+INFO:     127.0.0.1:49834 - "GET /predict/meta HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49841 - "GET /company/tsla HTTP/1.1" 200 OK
+URL: https://financialmodelingprep.com/stable/income-statement/tsla?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+STATUS: 404
+RESPONSE: []
+HTTP ERROR: 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/tsla?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+FMP blocked. Failing over to ACTUAL data scraping via yfinance engine. 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/tsla?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+INFO:     127.0.0.1:49842 - "GET /predict/tsla HTTP/1.1" 500 Internal Server Error
+ERROR:    Exception in ASGI application
+Traceback (most recent call last):
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/uvicorn/protocols/http/h11_impl.py", line 415, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/uvicorn/middleware/proxy_headers.py", line 60, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/fastapi/applications.py", line 1159, in __call__
+    await super().__call__(scope, receive, send)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/applications.py", line 90, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/middleware/errors.py", line 186, in __call__
+    raise exc
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/middleware/errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/middleware/cors.py", line 96, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/middleware/cors.py", line 154, in simple_response
+    await self.app(scope, receive, send)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/middleware/exceptions.py", line 63, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/fastapi/middleware/asyncexitstack.py", line 18, in __call__
+    await self.app(scope, receive, send)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/routing.py", line 660, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/routing.py", line 680, in app
+    await route.handle(scope, receive, send)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/routing.py", line 276, in handle
+    await self.app(scope, receive, send)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/fastapi/routing.py", line 134, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/fastapi/routing.py", line 120, in app
+    response = await f(request)
+               ^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/fastapi/routing.py", line 674, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/fastapi/routing.py", line 330, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/concurrency.py", line 32, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/anyio/to_thread.py", line 63, in run_sync
+    return await get_async_backend().run_sync_in_worker_thread(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/anyio/_backends/_asyncio.py", line 2518, in run_sync_in_worker_thread
+    return await future
+           ^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/anyio/_backends/_asyncio.py", line 1002, in run
+    result = context.run(func, *args)
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/app/server.py", line 154, in predict
+    "Revenue": generate_metric_series(data, "revenue", lambda x: round(x / 1_000_000_000, 2)), # in Billions
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/app/server.py", line 128, in generate_metric_series
+    model.fit(X_train, values_only)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/sklearn/base.py", line 1336, in wrapper
+    return fit_method(estimator, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/sklearn/linear_model/_base.py", line 630, in fit
+    X, y = validate_data(
+           ^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/sklearn/utils/validation.py", line 2919, in validate_data
+    X, y = check_X_y(X, y, **check_params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/sklearn/utils/validation.py", line 1331, in check_X_y
+    y = _check_y(y, multi_output=multi_output, y_numeric=y_numeric, estimator=estimator)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/sklearn/utils/validation.py", line 1341, in _check_y
+    y = check_array(
+        ^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/sklearn/utils/validation.py", line 1074, in check_array
+    _assert_all_finite(
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/sklearn/utils/validation.py", line 133, in _assert_all_finite
+    _assert_all_finite_element_wise(
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/sklearn/utils/validation.py", line 182, in _assert_all_finite_element_wise
+    raise ValueError(msg_err)
+ValueError: Input y contains NaN.
+INFO:     127.0.0.1:49847 - "GET /company/nvda HTTP/1.1" 200 OK
+URL: https://financialmodelingprep.com/stable/income-statement/nvda?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+STATUS: 404
+RESPONSE: []
+HTTP ERROR: 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/nvda?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+FMP blocked. Failing over to ACTUAL data scraping via yfinance engine. 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/nvda?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+INFO:     127.0.0.1:49848 - "GET /predict/nvda HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49851 - "GET /company/aapl HTTP/1.1" 200 OK
+URL: https://financialmodelingprep.com/stable/income-statement/aapl?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+STATUS: 404
+RESPONSE: []
+HTTP ERROR: 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/aapl?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+FMP blocked. Failing over to ACTUAL data scraping via yfinance engine. 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/aapl?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+INFO:     127.0.0.1:49852 - "GET /predict/aapl HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49857 - "GET /company/tsla HTTP/1.1" 200 OK
+URL: https://financialmodelingprep.com/stable/income-statement/tsla?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+STATUS: 404
+RESPONSE: []
+HTTP ERROR: 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/tsla?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+FMP blocked. Failing over to ACTUAL data scraping via yfinance engine. 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/tsla?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+INFO:     127.0.0.1:49858 - "GET /predict/tsla HTTP/1.1" 500 Internal Server Error
+ERROR:    Exception in ASGI application
+Traceback (most recent call last):
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/uvicorn/protocols/http/h11_impl.py", line 415, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/uvicorn/middleware/proxy_headers.py", line 60, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/fastapi/applications.py", line 1159, in __call__
+    await super().__call__(scope, receive, send)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/applications.py", line 90, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/middleware/errors.py", line 186, in __call__
+    raise exc
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/middleware/errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/middleware/cors.py", line 96, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/middleware/cors.py", line 154, in simple_response
+    await self.app(scope, receive, send)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/middleware/exceptions.py", line 63, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/fastapi/middleware/asyncexitstack.py", line 18, in __call__
+    await self.app(scope, receive, send)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/routing.py", line 660, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/routing.py", line 680, in app
+    await route.handle(scope, receive, send)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/routing.py", line 276, in handle
+    await self.app(scope, receive, send)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/fastapi/routing.py", line 134, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/fastapi/routing.py", line 120, in app
+    response = await f(request)
+               ^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/fastapi/routing.py", line 674, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/fastapi/routing.py", line 330, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/concurrency.py", line 32, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/anyio/to_thread.py", line 63, in run_sync
+    return await get_async_backend().run_sync_in_worker_thread(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/anyio/_backends/_asyncio.py", line 2518, in run_sync_in_worker_thread
+    return await future
+           ^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/anyio/_backends/_asyncio.py", line 1002, in run
+    result = context.run(func, *args)
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/app/server.py", line 154, in predict
+    "Revenue": generate_metric_series(data, "revenue", lambda x: round(x / 1_000_000_000, 2)), # in Billions
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/app/server.py", line 128, in generate_metric_series
+    model.fit(X_train, values_only)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/sklearn/base.py", line 1336, in wrapper
+    return fit_method(estimator, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/sklearn/linear_model/_base.py", line 630, in fit
+    X, y = validate_data(
+           ^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/sklearn/utils/validation.py", line 2919, in validate_data
+    X, y = check_X_y(X, y, **check_params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/sklearn/utils/validation.py", line 1331, in check_X_y
+    y = _check_y(y, multi_output=multi_output, y_numeric=y_numeric, estimator=estimator)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/sklearn/utils/validation.py", line 1341, in _check_y
+    y = check_array(
+        ^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/sklearn/utils/validation.py", line 1074, in check_array
+    _assert_all_finite(
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/sklearn/utils/validation.py", line 133, in _assert_all_finite
+    _assert_all_finite_element_wise(
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/sklearn/utils/validation.py", line 182, in _assert_all_finite_element_wise
+    raise ValueError(msg_err)
+ValueError: Input y contains NaN.
+INFO:     127.0.0.1:49868 - "GET /company/tsla HTTP/1.1" 200 OK
+URL: https://financialmodelingprep.com/stable/income-statement/tsla?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+STATUS: 404
+RESPONSE: []
+HTTP ERROR: 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/tsla?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+FMP blocked. Failing over to ACTUAL data scraping via yfinance engine. 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/tsla?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+INFO:     127.0.0.1:49869 - "GET /predict/tsla HTTP/1.1" 500 Internal Server Error
+ERROR:    Exception in ASGI application
+Traceback (most recent call last):
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/uvicorn/protocols/http/h11_impl.py", line 415, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/uvicorn/middleware/proxy_headers.py", line 60, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/fastapi/applications.py", line 1159, in __call__
+    await super().__call__(scope, receive, send)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/applications.py", line 90, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/middleware/errors.py", line 186, in __call__
+    raise exc
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/middleware/errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/middleware/cors.py", line 96, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/middleware/cors.py", line 154, in simple_response
+    await self.app(scope, receive, send)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/middleware/exceptions.py", line 63, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/fastapi/middleware/asyncexitstack.py", line 18, in __call__
+    await self.app(scope, receive, send)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/routing.py", line 660, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/routing.py", line 680, in app
+    await route.handle(scope, receive, send)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/routing.py", line 276, in handle
+    await self.app(scope, receive, send)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/fastapi/routing.py", line 134, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/fastapi/routing.py", line 120, in app
+    response = await f(request)
+               ^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/fastapi/routing.py", line 674, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/fastapi/routing.py", line 330, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/concurrency.py", line 32, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/anyio/to_thread.py", line 63, in run_sync
+    return await get_async_backend().run_sync_in_worker_thread(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/anyio/_backends/_asyncio.py", line 2518, in run_sync_in_worker_thread
+    return await future
+           ^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/anyio/_backends/_asyncio.py", line 1002, in run
+    result = context.run(func, *args)
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/app/server.py", line 154, in predict
+    "Revenue": generate_metric_series(data, "revenue", lambda x: round(x / 1_000_000_000, 2)), # in Billions
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/app/server.py", line 128, in generate_metric_series
+    model.fit(X_train, values_only)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/sklearn/base.py", line 1336, in wrapper
+    return fit_method(estimator, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/sklearn/linear_model/_base.py", line 630, in fit
+    X, y = validate_data(
+           ^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/sklearn/utils/validation.py", line 2919, in validate_data
+    X, y = check_X_y(X, y, **check_params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/sklearn/utils/validation.py", line 1331, in check_X_y
+    y = _check_y(y, multi_output=multi_output, y_numeric=y_numeric, estimator=estimator)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/sklearn/utils/validation.py", line 1341, in _check_y
+    y = check_array(
+        ^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/sklearn/utils/validation.py", line 1074, in check_array
+    _assert_all_finite(
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/sklearn/utils/validation.py", line 133, in _assert_all_finite
+    _assert_all_finite_element_wise(
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/sklearn/utils/validation.py", line 182, in _assert_all_finite_element_wise
+    raise ValueError(msg_err)
+ValueError: Input y contains NaN.
+INFO:     127.0.0.1:49873 - "GET /company/googl HTTP/1.1" 200 OK
+URL: https://financialmodelingprep.com/stable/income-statement/googl?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+STATUS: 404
+RESPONSE: []
+HTTP ERROR: 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/googl?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+FMP blocked. Failing over to ACTUAL data scraping via yfinance engine. 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/googl?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+INFO:     127.0.0.1:49874 - "GET /predict/googl HTTP/1.1" 500 Internal Server Error
+ERROR:    Exception in ASGI application
+Traceback (most recent call last):
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/uvicorn/protocols/http/h11_impl.py", line 415, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/uvicorn/middleware/proxy_headers.py", line 60, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/fastapi/applications.py", line 1159, in __call__
+    await super().__call__(scope, receive, send)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/applications.py", line 90, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/middleware/errors.py", line 186, in __call__
+    raise exc
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/middleware/errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/middleware/cors.py", line 96, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/middleware/cors.py", line 154, in simple_response
+    await self.app(scope, receive, send)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/middleware/exceptions.py", line 63, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/fastapi/middleware/asyncexitstack.py", line 18, in __call__
+    await self.app(scope, receive, send)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/routing.py", line 660, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/routing.py", line 680, in app
+    await route.handle(scope, receive, send)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/routing.py", line 276, in handle
+    await self.app(scope, receive, send)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/fastapi/routing.py", line 134, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/fastapi/routing.py", line 120, in app
+    response = await f(request)
+               ^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/fastapi/routing.py", line 674, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/fastapi/routing.py", line 330, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/concurrency.py", line 32, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/anyio/to_thread.py", line 63, in run_sync
+    return await get_async_backend().run_sync_in_worker_thread(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/anyio/_backends/_asyncio.py", line 2518, in run_sync_in_worker_thread
+    return await future
+           ^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/anyio/_backends/_asyncio.py", line 1002, in run
+    result = context.run(func, *args)
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/app/server.py", line 154, in predict
+    "Revenue": generate_metric_series(data, "revenue", lambda x: round(x / 1_000_000_000, 2)), # in Billions
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/app/server.py", line 128, in generate_metric_series
+    model.fit(X_train, values_only)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/sklearn/base.py", line 1336, in wrapper
+    return fit_method(estimator, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/sklearn/linear_model/_base.py", line 630, in fit
+    X, y = validate_data(
+           ^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/sklearn/utils/validation.py", line 2919, in validate_data
+    X, y = check_X_y(X, y, **check_params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/sklearn/utils/validation.py", line 1331, in check_X_y
+    y = _check_y(y, multi_output=multi_output, y_numeric=y_numeric, estimator=estimator)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/sklearn/utils/validation.py", line 1341, in _check_y
+    y = check_array(
+        ^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/sklearn/utils/validation.py", line 1074, in check_array
+    _assert_all_finite(
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/sklearn/utils/validation.py", line 133, in _assert_all_finite
+    _assert_all_finite_element_wise(
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/sklearn/utils/validation.py", line 182, in _assert_all_finite_element_wise
+    raise ValueError(msg_err)
+ValueError: Input y contains NaN.
+INFO:     127.0.0.1:49878 - "GET /company/msft HTTP/1.1" 200 OK
+URL: https://financialmodelingprep.com/stable/income-statement/msft?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+STATUS: 404
+RESPONSE: []
+HTTP ERROR: 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/msft?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+FMP blocked. Failing over to ACTUAL data scraping via yfinance engine. 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/msft?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+INFO:     127.0.0.1:49879 - "GET /predict/msft HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49885 - "GET /company/nflx HTTP/1.1" 200 OK
+URL: https://financialmodelingprep.com/stable/income-statement/nflx?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+STATUS: 404
+RESPONSE: []
+HTTP ERROR: 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/nflx?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+FMP blocked. Failing over to ACTUAL data scraping via yfinance engine. 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/nflx?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+INFO:     127.0.0.1:49886 - "GET /predict/nflx HTTP/1.1" 500 Internal Server Error
+ERROR:    Exception in ASGI application
+Traceback (most recent call last):
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/uvicorn/protocols/http/h11_impl.py", line 415, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/uvicorn/middleware/proxy_headers.py", line 60, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/fastapi/applications.py", line 1159, in __call__
+    await super().__call__(scope, receive, send)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/applications.py", line 90, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/middleware/errors.py", line 186, in __call__
+    raise exc
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/middleware/errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/middleware/cors.py", line 96, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/middleware/cors.py", line 154, in simple_response
+    await self.app(scope, receive, send)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/middleware/exceptions.py", line 63, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/fastapi/middleware/asyncexitstack.py", line 18, in __call__
+    await self.app(scope, receive, send)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/routing.py", line 660, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/routing.py", line 680, in app
+    await route.handle(scope, receive, send)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/routing.py", line 276, in handle
+    await self.app(scope, receive, send)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/fastapi/routing.py", line 134, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/fastapi/routing.py", line 120, in app
+    response = await f(request)
+               ^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/fastapi/routing.py", line 674, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/fastapi/routing.py", line 330, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/concurrency.py", line 32, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/anyio/to_thread.py", line 63, in run_sync
+    return await get_async_backend().run_sync_in_worker_thread(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/anyio/_backends/_asyncio.py", line 2518, in run_sync_in_worker_thread
+    return await future
+           ^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/anyio/_backends/_asyncio.py", line 1002, in run
+    result = context.run(func, *args)
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/app/server.py", line 154, in predict
+    "Revenue": generate_metric_series(data, "revenue", lambda x: round(x / 1_000_000_000, 2)), # in Billions
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/app/server.py", line 128, in generate_metric_series
+    model.fit(X_train, values_only)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/sklearn/base.py", line 1336, in wrapper
+    return fit_method(estimator, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/sklearn/linear_model/_base.py", line 630, in fit
+    X, y = validate_data(
+           ^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/sklearn/utils/validation.py", line 2919, in validate_data
+    X, y = check_X_y(X, y, **check_params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/sklearn/utils/validation.py", line 1331, in check_X_y
+    y = _check_y(y, multi_output=multi_output, y_numeric=y_numeric, estimator=estimator)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/sklearn/utils/validation.py", line 1341, in _check_y
+    y = check_array(
+        ^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/sklearn/utils/validation.py", line 1074, in check_array
+    _assert_all_finite(
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/sklearn/utils/validation.py", line 133, in _assert_all_finite
+    _assert_all_finite_element_wise(
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/sklearn/utils/validation.py", line 182, in _assert_all_finite_element_wise
+    raise ValueError(msg_err)
+ValueError: Input y contains NaN.
+INFO:     127.0.0.1:49894 - "GET /company/spot HTTP/1.1" 200 OK
+URL: https://financialmodelingprep.com/stable/income-statement/spot?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+STATUS: 404
+RESPONSE: []
+HTTP ERROR: 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/spot?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+FMP blocked. Failing over to ACTUAL data scraping via yfinance engine. 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/spot?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+INFO:     127.0.0.1:49895 - "GET /predict/spot HTTP/1.1" 200 OK
+URL: https://financialmodelingprep.com/stable/income-statement/TSLA?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+STATUS: 404
+RESPONSE: []
+HTTP ERROR: 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/TSLA?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+FMP blocked. Failing over to ACTUAL data scraping via yfinance engine. 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/TSLA?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+INFO:     127.0.0.1:49899 - "GET /predict/TSLA HTTP/1.1" 500 Internal Server Error
+ERROR:    Exception in ASGI application
+Traceback (most recent call last):
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/uvicorn/protocols/http/h11_impl.py", line 415, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/uvicorn/middleware/proxy_headers.py", line 60, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/fastapi/applications.py", line 1159, in __call__
+    await super().__call__(scope, receive, send)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/applications.py", line 90, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/middleware/errors.py", line 186, in __call__
+    raise exc
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/middleware/errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/middleware/cors.py", line 88, in __call__
+    await self.app(scope, receive, send)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/middleware/exceptions.py", line 63, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/fastapi/middleware/asyncexitstack.py", line 18, in __call__
+    await self.app(scope, receive, send)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/routing.py", line 660, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/routing.py", line 680, in app
+    await route.handle(scope, receive, send)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/routing.py", line 276, in handle
+    await self.app(scope, receive, send)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/fastapi/routing.py", line 134, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/fastapi/routing.py", line 120, in app
+    response = await f(request)
+               ^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/fastapi/routing.py", line 674, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/fastapi/routing.py", line 330, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/concurrency.py", line 32, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/anyio/to_thread.py", line 63, in run_sync
+    return await get_async_backend().run_sync_in_worker_thread(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/anyio/_backends/_asyncio.py", line 2518, in run_sync_in_worker_thread
+    return await future
+           ^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/anyio/_backends/_asyncio.py", line 1002, in run
+    result = context.run(func, *args)
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/app/server.py", line 154, in predict
+    "Revenue": generate_metric_series(data, "revenue", lambda x: round(x / 1_000_000_000, 2)), # in Billions
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/app/server.py", line 128, in generate_metric_series
+    model.fit(X_train, values_only)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/sklearn/base.py", line 1336, in wrapper
+    return fit_method(estimator, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/sklearn/linear_model/_base.py", line 630, in fit
+    X, y = validate_data(
+           ^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/sklearn/utils/validation.py", line 2919, in validate_data
+    X, y = check_X_y(X, y, **check_params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/sklearn/utils/validation.py", line 1331, in check_X_y
+    y = _check_y(y, multi_output=multi_output, y_numeric=y_numeric, estimator=estimator)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/sklearn/utils/validation.py", line 1341, in _check_y
+    y = check_array(
+        ^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/sklearn/utils/validation.py", line 1074, in check_array
+    _assert_all_finite(
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/sklearn/utils/validation.py", line 133, in _assert_all_finite
+    _assert_all_finite_element_wise(
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/sklearn/utils/validation.py", line 182, in _assert_all_finite_element_wise
+    raise ValueError(msg_err)
+ValueError: Input y contains NaN.
+INFO:     127.0.0.1:49904 - "GET /company/tsla HTTP/1.1" 200 OK
+URL: https://financialmodelingprep.com/stable/income-statement/tsla?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+STATUS: 404
+RESPONSE: []
+HTTP ERROR: 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/tsla?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+FMP blocked. Failing over to ACTUAL data scraping via yfinance engine. 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/tsla?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+INFO:     127.0.0.1:49905 - "GET /predict/tsla HTTP/1.1" 500 Internal Server Error
+ERROR:    Exception in ASGI application
+Traceback (most recent call last):
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/uvicorn/protocols/http/h11_impl.py", line 415, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/uvicorn/middleware/proxy_headers.py", line 60, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/fastapi/applications.py", line 1159, in __call__
+    await super().__call__(scope, receive, send)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/applications.py", line 90, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/middleware/errors.py", line 186, in __call__
+    raise exc
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/middleware/errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/middleware/cors.py", line 96, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/middleware/cors.py", line 154, in simple_response
+    await self.app(scope, receive, send)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/middleware/exceptions.py", line 63, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/fastapi/middleware/asyncexitstack.py", line 18, in __call__
+    await self.app(scope, receive, send)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/routing.py", line 660, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/routing.py", line 680, in app
+    await route.handle(scope, receive, send)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/routing.py", line 276, in handle
+    await self.app(scope, receive, send)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/fastapi/routing.py", line 134, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/fastapi/routing.py", line 120, in app
+    response = await f(request)
+               ^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/fastapi/routing.py", line 674, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/fastapi/routing.py", line 330, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/concurrency.py", line 32, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/anyio/to_thread.py", line 63, in run_sync
+    return await get_async_backend().run_sync_in_worker_thread(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/anyio/_backends/_asyncio.py", line 2518, in run_sync_in_worker_thread
+    return await future
+           ^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/anyio/_backends/_asyncio.py", line 1002, in run
+    result = context.run(func, *args)
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/app/server.py", line 154, in predict
+    "Revenue": generate_metric_series(data, "revenue", lambda x: round(x / 1_000_000_000, 2)), # in Billions
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/app/server.py", line 128, in generate_metric_series
+    model.fit(X_train, values_only)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/sklearn/base.py", line 1336, in wrapper
+    return fit_method(estimator, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/sklearn/linear_model/_base.py", line 630, in fit
+    X, y = validate_data(
+           ^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/sklearn/utils/validation.py", line 2919, in validate_data
+    X, y = check_X_y(X, y, **check_params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/sklearn/utils/validation.py", line 1331, in check_X_y
+    y = _check_y(y, multi_output=multi_output, y_numeric=y_numeric, estimator=estimator)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/sklearn/utils/validation.py", line 1341, in _check_y
+    y = check_array(
+        ^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/sklearn/utils/validation.py", line 1074, in check_array
+    _assert_all_finite(
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/sklearn/utils/validation.py", line 133, in _assert_all_finite
+    _assert_all_finite_element_wise(
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/sklearn/utils/validation.py", line 182, in _assert_all_finite_element_wise
+    raise ValueError(msg_err)
+ValueError: Input y contains NaN.
+INFO:     127.0.0.1:49911 - "GET /company/tsla HTTP/1.1" 200 OK
+URL: https://financialmodelingprep.com/stable/income-statement/tsla?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+STATUS: 404
+RESPONSE: []
+HTTP ERROR: 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/tsla?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+FMP blocked. Failing over to ACTUAL data scraping via yfinance engine. 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/tsla?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+INFO:     127.0.0.1:49912 - "GET /predict/tsla HTTP/1.1" 500 Internal Server Error
+ERROR:    Exception in ASGI application
+Traceback (most recent call last):
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/uvicorn/protocols/http/h11_impl.py", line 415, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/uvicorn/middleware/proxy_headers.py", line 60, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/fastapi/applications.py", line 1159, in __call__
+    await super().__call__(scope, receive, send)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/applications.py", line 90, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/middleware/errors.py", line 186, in __call__
+    raise exc
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/middleware/errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/middleware/cors.py", line 96, in __call__
+    await self.simple_response(scope, receive, send, request_headers=headers)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/middleware/cors.py", line 154, in simple_response
+    await self.app(scope, receive, send)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/middleware/exceptions.py", line 63, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/fastapi/middleware/asyncexitstack.py", line 18, in __call__
+    await self.app(scope, receive, send)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/routing.py", line 660, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/routing.py", line 680, in app
+    await route.handle(scope, receive, send)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/routing.py", line 276, in handle
+    await self.app(scope, receive, send)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/fastapi/routing.py", line 134, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/fastapi/routing.py", line 120, in app
+    response = await f(request)
+               ^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/fastapi/routing.py", line 674, in app
+    raw_response = await run_endpoint_function(
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/fastapi/routing.py", line 330, in run_endpoint_function
+    return await run_in_threadpool(dependant.call, **values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/starlette/concurrency.py", line 32, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/anyio/to_thread.py", line 63, in run_sync
+    return await get_async_backend().run_sync_in_worker_thread(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/anyio/_backends/_asyncio.py", line 2518, in run_sync_in_worker_thread
+    return await future
+           ^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/anyio/_backends/_asyncio.py", line 1002, in run
+    result = context.run(func, *args)
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/app/server.py", line 154, in predict
+    "Revenue": generate_metric_series(data, "revenue", lambda x: round(x / 1_000_000_000, 2)), # in Billions
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/app/server.py", line 128, in generate_metric_series
+    model.fit(X_train, values_only)
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/sklearn/base.py", line 1336, in wrapper
+    return fit_method(estimator, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/sklearn/linear_model/_base.py", line 630, in fit
+    X, y = validate_data(
+           ^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/sklearn/utils/validation.py", line 2919, in validate_data
+    X, y = check_X_y(X, y, **check_params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/sklearn/utils/validation.py", line 1331, in check_X_y
+    y = _check_y(y, multi_output=multi_output, y_numeric=y_numeric, estimator=estimator)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/sklearn/utils/validation.py", line 1341, in _check_y
+    y = check_array(
+        ^^^^^^^^^^^^
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/sklearn/utils/validation.py", line 1074, in check_array
+    _assert_all_finite(
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/sklearn/utils/validation.py", line 133, in _assert_all_finite
+    _assert_all_finite_element_wise(
+  File "/Users/tanishchhabra/Desktop/Earnings_Briefing_Engine/venv/lib/python3.11/site-packages/sklearn/utils/validation.py", line 182, in _assert_all_finite_element_wise
+    raise ValueError(msg_err)
+ValueError: Input y contains NaN.
+WARNING:  StatReload detected changes in 'app/server.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [74440]
+INFO:     Started server process [74946]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+URL: https://financialmodelingprep.com/stable/income-statement/tsla?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+STATUS: 404
+RESPONSE: []
+HTTP ERROR: 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/tsla?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+FMP blocked. Failing over to ACTUAL data scraping via yfinance engine. 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/tsla?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+INFO:     127.0.0.1:49923 - "GET /company/tsla HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49924 - "GET /predict/tsla HTTP/1.1" 200 OK
+URL: https://financialmodelingprep.com/stable/income-statement/TSLA?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+STATUS: 404
+RESPONSE: []
+HTTP ERROR: 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/TSLA?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+FMP blocked. Failing over to ACTUAL data scraping via yfinance engine. 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/TSLA?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+INFO:     127.0.0.1:49931 - "GET /predict/TSLA HTTP/1.1" 200 OK
+URL: https://financialmodelingprep.com/stable/income-statement/GOOGL?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+STATUS: 404
+RESPONSE: []
+HTTP ERROR: 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/GOOGL?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+FMP blocked. Failing over to ACTUAL data scraping via yfinance engine. 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/GOOGL?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+INFO:     127.0.0.1:49952 - "GET /predict/GOOGL HTTP/1.1" 200 OK
+WARNING:  StatReload detected changes in 'run.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [74946]
+INFO:     Started server process [75204]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     127.0.0.1:49962 - "GET /company/jpm HTTP/1.1" 200 OK
+URL: https://financialmodelingprep.com/stable/income-statement/jpm?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+STATUS: 404
+RESPONSE: []
+HTTP ERROR: 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/jpm?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+FMP blocked. Failing over to ACTUAL data scraping via yfinance engine. 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/jpm?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+INFO:     127.0.0.1:49963 - "GET /predict/jpm HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49968 - "GET /company/googl HTTP/1.1" 200 OK
+URL: https://financialmodelingprep.com/stable/income-statement/googl?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+STATUS: 404
+RESPONSE: []
+HTTP ERROR: 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/googl?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+FMP blocked. Failing over to ACTUAL data scraping via yfinance engine. 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/googl?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+INFO:     127.0.0.1:49969 - "GET /predict/googl HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49977 - "GET /company/dis HTTP/1.1" 200 OK
+URL: https://financialmodelingprep.com/stable/income-statement/dis?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+STATUS: 404
+RESPONSE: []
+HTTP ERROR: 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/dis?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+FMP blocked. Failing over to ACTUAL data scraping via yfinance engine. 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/dis?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+INFO:     127.0.0.1:49978 - "GET /predict/dis HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49983 - "GET /company/intc HTTP/1.1" 200 OK
+URL: https://financialmodelingprep.com/stable/income-statement/intc?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+STATUS: 404
+RESPONSE: []
+HTTP ERROR: 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/intc?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+FMP blocked. Failing over to ACTUAL data scraping via yfinance engine. 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/intc?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+INFO:     127.0.0.1:49984 - "GET /predict/intc HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50142 - "GET /company/INTC HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50142 - "GET /company/INTC HTTP/1.1" 200 OK
+URL: https://financialmodelingprep.com/stable/income-statement/INTC?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+STATUS: 404
+RESPONSE: []
+HTTP ERROR: 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/INTC?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+FMP blocked. Failing over to ACTUAL data scraping via yfinance engine. 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/INTC?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+INFO:     127.0.0.1:50143 - "GET /predict/INTC HTTP/1.1" 200 OK
+URL: https://financialmodelingprep.com/stable/income-statement/INTC?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+STATUS: 404
+RESPONSE: []
+HTTP ERROR: 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/INTC?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+FMP blocked. Failing over to ACTUAL data scraping via yfinance engine. 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/INTC?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+INFO:     127.0.0.1:50143 - "GET /predict/INTC HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50187 - "GET /company/INTC HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50187 - "GET /company/INTC HTTP/1.1" 200 OK
+URL: https://financialmodelingprep.com/stable/income-statement/INTC?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+STATUS: 404
+RESPONSE: []
+HTTP ERROR: 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/INTC?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+FMP blocked. Failing over to ACTUAL data scraping via yfinance engine. 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/INTC?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+INFO:     127.0.0.1:50188 - "GET /predict/INTC HTTP/1.1" 200 OK
+URL: https://financialmodelingprep.com/stable/income-statement/INTC?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+STATUS: 404
+RESPONSE: []
+HTTP ERROR: 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/INTC?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+FMP blocked. Failing over to ACTUAL data scraping via yfinance engine. 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/INTC?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+INFO:     127.0.0.1:50188 - "GET /predict/INTC HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50748 - "GET /company/tsla HTTP/1.1" 200 OK
+URL: https://financialmodelingprep.com/stable/income-statement/tsla?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+STATUS: 404
+RESPONSE: []
+HTTP ERROR: 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/tsla?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+FMP blocked. Failing over to ACTUAL data scraping via yfinance engine. 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/tsla?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+INFO:     127.0.0.1:50749 - "GET /predict/tsla HTTP/1.1" 200 OK
+HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: GOOGLE"}}}
+INFO:     127.0.0.1:50758 - "GET /company/google HTTP/1.1" 200 OK
+URL: https://financialmodelingprep.com/stable/income-statement/google?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+STATUS: 404
+RESPONSE: []
+HTTP ERROR: 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/google?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+FMP blocked. Failing over to ACTUAL data scraping via yfinance engine. 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/google?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+Data empty for google, applying fallback layout.
+INFO:     127.0.0.1:50759 - "GET /predict/google HTTP/1.1" 200 OK
+URL: https://financialmodelingprep.com/stable/income-statement/googl?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+STATUS: 404
+RESPONSE: []
+HTTP ERROR: 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/googl?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+FMP blocked. Failing over to ACTUAL data scraping via yfinance engine. 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/googl?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+INFO:     127.0.0.1:50764 - "GET /predict/googl HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50763 - "GET /company/googl HTTP/1.1" 200 OK
+WARNING:  StatReload detected changes in 'app/server.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [75204]
+INFO:     Started server process [78976]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+WARNING:  StatReload detected changes in 'app/server.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [78976]
+INFO:     Started server process [78978]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+URL: https://financialmodelingprep.com/stable/income-statement/GOOGL?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+STATUS: 404
+RESPONSE: []
+HTTP ERROR: 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/GOOGL?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+FMP blocked. Failing over to ACTUAL data scraping via yfinance engine. 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/GOOGL?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+INFO:     127.0.0.1:51002 - "GET /company/GOOGL HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51002 - "GET /company/GOOGL HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51003 - "GET /predict/GOOGL HTTP/1.1" 200 OK
+URL: https://financialmodelingprep.com/stable/income-statement/GOOGL?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+STATUS: 404
+RESPONSE: []
+HTTP ERROR: 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/GOOGL?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+FMP blocked. Failing over to ACTUAL data scraping via yfinance engine. 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/GOOGL?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+INFO:     127.0.0.1:51003 - "GET /predict/GOOGL HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51050 - "GET /company/GOOGL HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51050 - "GET /company/GOOGL HTTP/1.1" 200 OK
+URL: https://financialmodelingprep.com/stable/income-statement/GOOGL?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+STATUS: 404
+RESPONSE: []
+HTTP ERROR: 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/GOOGL?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+FMP blocked. Failing over to ACTUAL data scraping via yfinance engine. 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/GOOGL?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+INFO:     127.0.0.1:51051 - "GET /predict/GOOGL HTTP/1.1" 200 OK
+URL: https://financialmodelingprep.com/stable/income-statement/GOOGL?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+STATUS: 404
+RESPONSE: []
+HTTP ERROR: 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/GOOGL?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+FMP blocked. Failing over to ACTUAL data scraping via yfinance engine. 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/GOOGL?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+INFO:     127.0.0.1:51051 - "GET /predict/GOOGL HTTP/1.1" 200 OK
+URL: https://financialmodelingprep.com/stable/income-statement/INTC?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+STATUS: 404
+RESPONSE: []
+HTTP ERROR: 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/INTC?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+FMP blocked. Failing over to ACTUAL data scraping via yfinance engine. 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/INTC?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+INFO:     127.0.0.1:51364 - "GET /predict/INTC HTTP/1.1" 200 OK
+URL: https://financialmodelingprep.com/stable/income-statement/META?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+STATUS: 404
+RESPONSE: []
+HTTP ERROR: 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/META?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+FMP blocked. Failing over to ACTUAL data scraping via yfinance engine. 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/META?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+INFO:     127.0.0.1:51371 - "GET /predict/META HTTP/1.1" 200 OK
+WARNING:  StatReload detected changes in 'app/server.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [78978]
+INFO:     Started server process [82454]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+URL: https://financialmodelingprep.com/stable/income-statement/intc?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+STATUS: 404
+RESPONSE: []
+HTTP ERROR: 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/intc?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+FMP blocked. Failing over to ACTUAL data scraping via yfinance engine. 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/intc?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+INFO:     127.0.0.1:51652 - "GET /company/intc HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51653 - "GET /predict/intc HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51711 - "GET /company/meta HTTP/1.1" 200 OK
+URL: https://financialmodelingprep.com/stable/income-statement/meta?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+STATUS: 404
+RESPONSE: []
+HTTP ERROR: 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/meta?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+FMP blocked. Failing over to ACTUAL data scraping via yfinance engine. 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/meta?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+INFO:     127.0.0.1:51712 - "GET /predict/meta HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51717 - "GET /company/googl HTTP/1.1" 200 OK
+URL: https://financialmodelingprep.com/stable/income-statement/googl?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+STATUS: 404
+RESPONSE: []
+HTTP ERROR: 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/googl?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+FMP blocked. Failing over to ACTUAL data scraping via yfinance engine. 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/googl?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+INFO:     127.0.0.1:51718 - "GET /predict/googl HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51727 - "GET /company/meta HTTP/1.1" 200 OK
+URL: https://financialmodelingprep.com/stable/income-statement/meta?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+STATUS: 404
+RESPONSE: []
+HTTP ERROR: 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/meta?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+FMP blocked. Failing over to ACTUAL data scraping via yfinance engine. 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/meta?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+INFO:     127.0.0.1:51728 - "GET /predict/meta HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51891 - "GET /company/intc HTTP/1.1" 200 OK
+URL: https://financialmodelingprep.com/stable/income-statement/intc?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+STATUS: 404
+RESPONSE: []
+HTTP ERROR: 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/intc?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+FMP blocked. Failing over to ACTUAL data scraping via yfinance engine. 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/intc?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+INFO:     127.0.0.1:51892 - "GET /predict/intc HTTP/1.1" 200 OK
+URL: https://financialmodelingprep.com/stable/income-statement/META?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+STATUS: 404
+RESPONSE: []
+HTTP ERROR: 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/META?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+FMP blocked. Failing over to ACTUAL data scraping via yfinance engine. 404 Client Error: Not Found for url: https://financialmodelingprep.com/stable/income-statement/META?period=quarter&limit=8&apikey=wnSvAUCmd3nsydhN3tCwBqFmvEJn3GhE
+INFO:     127.0.0.1:51897 - "GET /predict/META HTTP/1.1" 200 OK
