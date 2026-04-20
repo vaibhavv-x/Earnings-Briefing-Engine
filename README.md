@@ -107,7 +107,7 @@ npm run dev
 <img src="./assets/dark-mode.png" width="800"/>
 
 ### 🔗 Multi-Company Comparison
-<img src=”./assets/aggregate.png” width="800"/>
+<img src=”/assets/aggregate.png” width="800"/>
 
 # 🚀 Future Enhancements
 	•	📈 Advanced financial analytics
