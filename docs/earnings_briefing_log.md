@@ -236,3 +236,8 @@ Incremental development and engineering logs.
 - **Date**: 2026-04-09 09:04:13
 - **Type**: FIX
 - **Action**: fix: handle missing EPS values in company profiles gracefully
+
+### Update - Commit 48
+- **Date**: 2026-04-23 09:06:13
+- **Type**: FIX
+- **Action**: fix: fix date range selector overlapping index charts
