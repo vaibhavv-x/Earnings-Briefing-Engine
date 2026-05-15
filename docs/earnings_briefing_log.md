@@ -271,3 +271,8 @@ Incremental development and engineering logs.
 - **Date**: 2026-05-15 09:01:00
 - **Type**: FEAT
 - **Action**: feat: add SEC filings parser for earnings transcript ingestion
+
+### Update - Commit 55
+- **Date**: 2026-05-15 13:38:52
+- **Type**: DOCS
+- **Action**: docs: detail time-series forecasting model configurations
