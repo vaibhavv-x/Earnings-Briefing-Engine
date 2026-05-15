@@ -266,3 +266,8 @@ Incremental development and engineering logs.
 - **Date**: 2026-05-05 13:34:32
 - **Type**: FIX
 - **Action**: fix: handle missing EPS values in company profiles gracefully
+
+### Update - Commit 54
+- **Date**: 2026-05-15 09:01:00
+- **Type**: FEAT
+- **Action**: feat: add SEC filings parser for earnings transcript ingestion
