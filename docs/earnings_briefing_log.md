@@ -306,3 +306,8 @@ Incremental development and engineering logs.
 - **Date**: 2026-05-28 11:17:26
 - **Type**: FIX
 - **Action**: fix: fix date range selector overlapping index charts
+
+### Update - Commit 62
+- **Date**: 2026-05-28 13:34:10
+- **Type**: REFACTOR
+- **Action**: refactor: extract charting logic to reusable chart containers
