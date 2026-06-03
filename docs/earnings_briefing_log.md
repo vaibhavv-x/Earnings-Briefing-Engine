@@ -336,3 +336,8 @@ Incremental development and engineering logs.
 - **Date**: 2026-06-03 09:00:26
 - **Type**: FEAT
 - **Action**: feat: design sentiment analysis visualization chart using Recharts
+
+### Update - Commit 68
+- **Date**: 2026-06-03 12:10:43
+- **Type**: DOCS
+- **Action**: docs: document setup commands and python packages in README
